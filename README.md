@@ -15,8 +15,8 @@
 
 * pkg install git
 
-* git clone http://github.com/SmartBoyEasin/SmartBoy
+* git clone http://github.com/khondokarimran/imran
 
-* cd SmartBoy
+* cd imran
 
-* python2 SmartBoy.py
+* python2 khondokarimran.py
